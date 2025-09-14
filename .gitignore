@@ -8,3 +8,4 @@ __pycache__
 *.egg-info
 .env
 /backup
+my_agent_data.db*
